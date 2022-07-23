@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/teste
     username: root
-    password:
+    password: lecom
   jpa:
     hibernate:
       ddl-auto: update
